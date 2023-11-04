@@ -58,7 +58,7 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> BREEZE_SHARD = ITEMS.register("breeze_shard",
             () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> TYPHOON_SHARD = ITEMS.register("cyclone_shard",
+    public static final RegistryObject<Item> TYPHOON_SHARD = ITEMS.register("typhoon_shard",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> GUST_SHARD = ITEMS.register("gust_shard",
             () -> new Item(new Item.Properties()));
