@@ -130,7 +130,7 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> GROVE_SHARD = ITEMS.register("grove_shard",
             () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> ARBOR_SHARD = ITEMS.register("abor_shard",
+    public static final RegistryObject<Item> ARBOR_SHARD = ITEMS.register("arbor_shard",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> THICKET_SHARD = ITEMS.register("thicket_shard",
             () -> new Item(new Item.Properties()));
