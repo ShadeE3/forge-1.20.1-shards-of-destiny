@@ -106,7 +106,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.LIGHTNING_SHARD.get());
                         pOutput.accept(ModItems.THUNDER_SHARD.get());
                         pOutput.accept(ModItems.TEMPEST_SHARD.get());
-                        pOutput.accept(ModItems.CYCLONE_SHARD.get());
+                        pOutput.accept(ModItems.GALE_SHARD.get());
                         pOutput.accept(ModItems.STORMRAGE_SHARD.get());
                     })
                     .build());

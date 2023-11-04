@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "shards_of_destiny:item/cyclone_shard"
+    "layer0": "shards_of_destiny:item/gale_shard"
   }
 }
