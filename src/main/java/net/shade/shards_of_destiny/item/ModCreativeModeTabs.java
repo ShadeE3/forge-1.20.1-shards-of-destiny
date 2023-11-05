@@ -158,7 +158,7 @@ public class ModCreativeModeTabs {
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.VAPORMYST.get()))
                     .title(Component.translatable("creativetab.steam_element"))
                     .displayItems((pParameters, pOutput) -> {
-                        pOutput.accept(ModItems.GEMARITE.get());
+                        pOutput.accept(ModItems.VAPORMYST.get());
                         pOutput.accept(ModItems.VAPOR_SHARD.get());
                         pOutput.accept(ModItems.STEAM_SHARD.get());
                         pOutput.accept(ModItems.MIST_SHARD.get());

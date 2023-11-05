@@ -12,7 +12,7 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, ShardsOfDestiny.MOD_ID);
 
     //Fire
-    public static final RegistryObject<Item> PYROCLASTITE = ITEMS.register("pyroclastite",
+        public static final RegistryObject<Item> PYROCLASTITE = ITEMS.register("pyroclastite",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> EMBER_SHARD = ITEMS.register("ember_shard",
             () -> new Item(new Item.Properties()));
