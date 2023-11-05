@@ -100,7 +100,7 @@ public class ModCreativeModeTabs {
     //Storm
     public static final RegistryObject<CreativeModeTab> STORM_ELEMENT = CREATIVE_MODE_TABS.register("storm_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.THORUNITE.get()))
-                    .title(Component.translatable("creativetab.storm_element"))
+                    .title(Component.translatable("Storm Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.THORUNITE.get());
                         pOutput.accept(ModItems.LIGHTNING_SHARD.get());
