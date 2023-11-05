@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:steel_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:gold_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:iron_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:bronze_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:silver_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:ferrumite"
+  }
+}

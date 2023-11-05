@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:glacial_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:arctic_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:frost_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:permafrost_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:frostbite_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:cryoquartz"
+  }
+}

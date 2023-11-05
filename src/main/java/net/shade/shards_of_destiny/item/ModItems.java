@@ -228,7 +228,7 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> SHADE_SHARD = ITEMS.register("shade_shard",
             () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> MURK_SHARD = ITEMS.register("murk_shard",
+    public static final RegistryObject<Item> NIGHTMARE_SHARD = ITEMS.register("nightmare_shard",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> DUSK_SHARD = ITEMS.register("dusk_shard",
             () -> new Item(new Item.Properties()));

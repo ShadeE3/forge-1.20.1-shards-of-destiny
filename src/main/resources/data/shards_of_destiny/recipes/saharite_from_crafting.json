@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:mirage_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:scorched_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:dune_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:desert_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:oasis_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:saharite"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:grove_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:verdent_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:forest_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:arbor_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:thicket_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:sylvanite"
+  }
+}

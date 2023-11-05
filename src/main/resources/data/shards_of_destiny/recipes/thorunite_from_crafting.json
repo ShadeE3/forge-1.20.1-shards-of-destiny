@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:thunder_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:stormrage_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:lightning_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:tempest_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:gale_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:thorunite"
+  }
+}

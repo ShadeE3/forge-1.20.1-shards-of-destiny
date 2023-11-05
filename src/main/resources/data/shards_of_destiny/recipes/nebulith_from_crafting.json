@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:ashen_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:haze_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:smoke_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:obscure_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:gas_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:nebulith"
+  }
+}

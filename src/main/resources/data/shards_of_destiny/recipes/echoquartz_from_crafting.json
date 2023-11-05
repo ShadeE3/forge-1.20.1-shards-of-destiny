@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:harmonic_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:reverb_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:echo_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:resonance_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:sonorous_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:echoquartz"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:glacier_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:icebound_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:wave_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:tsunami_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:aquafoam_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:aquabrisite"
+  }
+}

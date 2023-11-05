@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:luminous_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:daybreak_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:radiance_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:halo_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:glow_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:luxarite"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:pyroclasm_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:emberflow_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:molten_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:obsidian_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:lavalink_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:vulcanium"
+  }
+}

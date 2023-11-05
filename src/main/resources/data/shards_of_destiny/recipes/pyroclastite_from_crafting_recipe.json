@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:inferno_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:flamestrike_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:ember_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:blaze_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:scorch_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:pyroclastite"
+  }
+}

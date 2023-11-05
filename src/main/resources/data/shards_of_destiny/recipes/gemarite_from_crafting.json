@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:lustrite_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:radiant_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:prism_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:gemcore_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:crystalis_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:gemarite"
+  }
+}

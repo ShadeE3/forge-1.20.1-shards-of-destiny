@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:steam_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:geyser_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:vapor_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:mist_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:boil_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:vapormyst"
+  }
+}

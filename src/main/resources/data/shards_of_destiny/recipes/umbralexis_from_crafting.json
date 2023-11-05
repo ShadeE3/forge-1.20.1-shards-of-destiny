@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "shards_of_destiny:shade_shard"
+    },
+    "B": {
+      "item": "shards_of_destiny:twilight_shard"
+    },
+    "C": {
+      "item": "shards_of_destiny:shadow_shard"
+    },
+    "D": {
+      "item": "shards_of_destiny:murk_shard"
+    },
+    "E": {
+      "item": "shards_of_destiny:dusk_shard"
+    }
+  },
+  "result": {
+    "item": "shards_of_destiny:umbralexis"
+  }
+}
