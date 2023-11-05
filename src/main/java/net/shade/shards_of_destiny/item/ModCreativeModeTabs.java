@@ -16,7 +16,7 @@ public class ModCreativeModeTabs {
     //Fire
     public static final RegistryObject<CreativeModeTab> FIRE_ELEMENT = CREATIVE_MODE_TABS.register("fire_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.PYROCLASTITE.get()))
-                    .title(Component.translatable("creativetab.fire_element"))
+                    .title(Component.translatable("Fire Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.PYROCLASTITE.get());
                         pOutput.accept(ModItems.EMBER_SHARD.get());
@@ -30,7 +30,7 @@ public class ModCreativeModeTabs {
     //Water
     public static final RegistryObject<CreativeModeTab> WATER_ELEMENT = CREATIVE_MODE_TABS.register("water_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.AQUABRISITE.get()))
-                    .title(Component.translatable("creativetab.water_element"))
+                    .title(Component.translatable("Water Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.AQUABRISITE.get());
                         pOutput.accept(ModItems.WAVE_SHARD.get());
@@ -44,7 +44,7 @@ public class ModCreativeModeTabs {
     //Earth
     public static final RegistryObject<CreativeModeTab> EARTH_ELEMENT = CREATIVE_MODE_TABS.register("earth_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.TERRANITE.get()))
-                    .title(Component.translatable("creativetab.earth_element"))
+                    .title(Component.translatable("Earth Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.TERRANITE.get());
                         pOutput.accept(ModItems.GRANITE_SHARD.get());
@@ -58,7 +58,7 @@ public class ModCreativeModeTabs {
     //Air
     public static final RegistryObject<CreativeModeTab> AIR_ELEMENT = CREATIVE_MODE_TABS.register("air_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.ZEPHYRION.get()))
-                    .title(Component.translatable("creativetab.air_element"))
+                    .title(Component.translatable("Air Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.ZEPHYRION.get());
                         pOutput.accept(ModItems.BREEZE_SHARD.get());
@@ -72,7 +72,7 @@ public class ModCreativeModeTabs {
     //Magma
     public static final RegistryObject<CreativeModeTab> MAGMA_ELEMENT = CREATIVE_MODE_TABS.register("magma_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.VULCANIUM.get()))
-                    .title(Component.translatable("creativetab.magma_element"))
+                    .title(Component.translatable("Magma Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.VULCANIUM.get());
                         pOutput.accept(ModItems.MOLTEN_SHARD.get());
@@ -86,7 +86,7 @@ public class ModCreativeModeTabs {
     //Ice
     public static final RegistryObject<CreativeModeTab> ICE_ELEMENT = CREATIVE_MODE_TABS.register("ice_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.CRYOQUARTZ.get()))
-                    .title(Component.translatable("creativetab.ice_element"))
+                    .title(Component.translatable("Ice Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.CRYOQUARTZ.get());
                         pOutput.accept(ModItems.FROST_SHARD.get());
@@ -114,7 +114,7 @@ public class ModCreativeModeTabs {
     //Sand
     public static final RegistryObject<CreativeModeTab> SAND_ELEMENT = CREATIVE_MODE_TABS.register("sand_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.SAHARITE.get()))
-                    .title(Component.translatable("creativetab.sand_element"))
+                    .title(Component.translatable("Sand Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.SAHARITE.get());
                         pOutput.accept(ModItems.DUNE_SHARD.get());
@@ -128,7 +128,7 @@ public class ModCreativeModeTabs {
     //Wood
     public static final RegistryObject<CreativeModeTab> WOOD_ELEMENT = CREATIVE_MODE_TABS.register("wood_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.SYLVANITE.get()))
-                    .title(Component.translatable("creativetab.sand_element"))
+                    .title(Component.translatable("Wood Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.SYLVANITE.get());
                         pOutput.accept(ModItems.FOREST_SHARD.get());
@@ -142,7 +142,7 @@ public class ModCreativeModeTabs {
     //Metal
     public static final RegistryObject<CreativeModeTab> METAL_ELEMENT = CREATIVE_MODE_TABS.register("metal_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.FERRUMITE.get()))
-                    .title(Component.translatable("creativetab.metal_element"))
+                    .title(Component.translatable("Metal Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.FERRUMITE.get());
                         pOutput.accept(ModItems.IRON_SHARD.get());
@@ -156,7 +156,7 @@ public class ModCreativeModeTabs {
     //Steam
     public static final RegistryObject<CreativeModeTab> STEAM_ELEMENT = CREATIVE_MODE_TABS.register("steam_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.VAPORMYST.get()))
-                    .title(Component.translatable("creativetab.steam_element"))
+                    .title(Component.translatable("Steam Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.VAPORMYST.get());
                         pOutput.accept(ModItems.VAPOR_SHARD.get());
@@ -170,7 +170,7 @@ public class ModCreativeModeTabs {
     //Crystal
     public static final RegistryObject<CreativeModeTab> CRYSTAL_ELEMENT = CREATIVE_MODE_TABS.register("crystal_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.GEMARITE.get()))
-                    .title(Component.translatable("creativetab.crystal_element"))
+                    .title(Component.translatable("Crystal Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.GEMARITE.get());
                         pOutput.accept(ModItems.PRISM_SHARD.get());
@@ -184,7 +184,7 @@ public class ModCreativeModeTabs {
     //Smoke
     public static final RegistryObject<CreativeModeTab> SMOKE_ELEMENT = CREATIVE_MODE_TABS.register("smoke_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.NEBULITH.get()))
-                    .title(Component.translatable("creativetab.smoke_element"))
+                    .title(Component.translatable("Smoke Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.NEBULITH.get());
                         pOutput.accept(ModItems.SMOKE_SHARD.get());
@@ -198,7 +198,7 @@ public class ModCreativeModeTabs {
     //Sound
     public static final RegistryObject<CreativeModeTab> SOUND_ELEMENT = CREATIVE_MODE_TABS.register("sound_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.ECHOQUARTZ.get()))
-                    .title(Component.translatable("creativetab.sound_element"))
+                    .title(Component.translatable("Sound Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.ECHOQUARTZ.get());
                         pOutput.accept(ModItems.ECHO_SHARD.get());
@@ -212,7 +212,7 @@ public class ModCreativeModeTabs {
     //Light
     public static final RegistryObject<CreativeModeTab> LIGHT_ELEMENT = CREATIVE_MODE_TABS.register("light_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.LUXARITE.get()))
-                    .title(Component.translatable("creativetab.light_element"))
+                    .title(Component.translatable("Light Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.LUXARITE.get());
                         pOutput.accept(ModItems.RADIANCE_SHARD.get());
@@ -226,7 +226,7 @@ public class ModCreativeModeTabs {
     //Shadow
     public static final RegistryObject<CreativeModeTab> SHADOW_ELEMENT = CREATIVE_MODE_TABS.register("shadow_element",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.UMBRALEXIS.get()))
-                    .title(Component.translatable("creativetab.shadow_element"))
+                    .title(Component.translatable("Shadow Element"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.UMBRALEXIS.get());
                         pOutput.accept(ModItems.SHADOW_SHARD.get());

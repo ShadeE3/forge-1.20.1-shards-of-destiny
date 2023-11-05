@@ -79,7 +79,7 @@
   "item.shards_of_destiny.gemarite": "Gemarite",
   "item.shards_of_destiny.prism_shard": "Prism Shard",
   "item.shards_of_destiny.lustrite_shard": "Lustrite Shard",
-  "item.shards_of_destiny.gemmcore_shard": "Gemcore Shard",
+  "item.shards_of_destiny.gemcore_shard": "Gemcore Shard",
   "item.shards_of_destiny.crystalis_shard": "Crystalis Shard",
   "item.shards_of_destiny.radiant_shard": "Radiant Shard",
 
@@ -126,5 +126,5 @@
   "creativetab.shards_of_destiny.smoke_element": "Smoke Element",
   "creativetab.shards_of_destiny.sound_element": "Sound Element",
   "creativetab.shards_of_destiny.light_element": "Light Element",
-  "creativetab.shards_of_destiny.shadow_element": "Shadow Element",
+  "creativetab.shards_of_destiny.shadow_element": "Shadow Element"
 }
