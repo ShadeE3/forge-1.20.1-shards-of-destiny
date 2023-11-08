@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "shards_of_destiny:item/inferno_amulet_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "shards_of_destiny:item/inferno_amulet_2d"
+    },
+    "ground": {
+      "parent": "shards_of_destiny:item/inferno_amulet_2d"
+    },
+    "fixed": {
+      "parent": "shards_of_destiny:item/inferno_amulet_2d"
+    }
+  }
+}

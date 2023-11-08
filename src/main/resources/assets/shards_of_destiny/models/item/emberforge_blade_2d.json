@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "shards_of_destiny:item/emberforge_blade_2d"
+  }
+}

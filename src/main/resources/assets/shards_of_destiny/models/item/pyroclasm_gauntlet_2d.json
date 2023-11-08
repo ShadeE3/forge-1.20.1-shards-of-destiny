@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "shards_of_destiny:item/pyroclasm_gauntlet_2d"
+  }
+}

@@ -24,6 +24,10 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.BLAZE_SHARD.get());
                         pOutput.accept(ModItems.SCORCH_SHARD.get());
                         pOutput.accept(ModItems.FLAMESTRIKE_SHARD.get());
+
+                        pOutput.accept(ModItems.EMBERFORGE_BLADE.get());
+                        pOutput.accept(ModItems.INFERNO_AMULET.get());
+                        pOutput.accept(ModItems.PYROCLASM_GAUNTLET.get());
                     })
                     .build());
 
@@ -38,6 +42,10 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.TSUNAMI_SHARD.get());
                         pOutput.accept(ModItems.AQUAFOAM_SHARD.get());
                         pOutput.accept(ModItems.ICEBOUND_SHARD.get());
+
+                        pOutput.accept(ModItems.AQUATIC_PEARL_NECKLACE.get());
+                        pOutput.accept(ModItems.TIDAL_TRIDENT.get());
+                        pOutput.accept(ModItems.FROSTBOUND_CHALICE.get());
                     })
                     .build());
 
@@ -52,6 +60,10 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.LAVAFLOW_SHARD.get());
                         pOutput.accept(ModItems.MOSSSTONE_SHARD.get());
                         pOutput.accept(ModItems.CRYSTALINE_SHARD.get());
+
+                        pOutput.accept(ModItems.GAIAS_HEARTSTONE.get());
+                        pOutput.accept(ModItems.TERRAQUAKE_HAMMER.get());
+                        pOutput.accept(ModItems.CRYSTALINE_EARTHSHAKER.get());
                     })
                     .build());
 
@@ -66,6 +78,10 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.GUST_SHARD.get());
                         pOutput.accept(ModItems.TORNADO_SHARD.get());
                         pOutput.accept(ModItems.WHISPER_SHARD.get());
+
+                        pOutput.accept(ModItems.ZEPHYR_WINGS.get());
+                        pOutput.accept(ModItems.CYCLONE_CLOAK.get());
+                        pOutput.accept(ModItems.AERIAL_WHISPERERS_STAFF.get());
                     })
                     .build());
 
@@ -80,6 +96,10 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.OBSIDIAN_SHARD.get());
                         pOutput.accept(ModItems.LAVALINK_SHARD.get());
                         pOutput.accept(ModItems.EMBERFLOW_SHARD.get());
+
+                        pOutput.accept(ModItems.VOLCANIC_ERUPTION_AXE.get());
+                        pOutput.accept(ModItems.MOLTEN_CORE_TALISMAN.get());
+                        pOutput.accept(ModItems.LAVAFLOW_ARMOR.get());
                     })
                     .build());
 
@@ -94,6 +114,10 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.PERMAFROST_SHARD.get());
                         pOutput.accept(ModItems.FROSTBITE_SHARD.get());
                         pOutput.accept(ModItems.ARCTIC_SHARD.get());
+
+                        pOutput.accept(ModItems.GLACIAL_SHARD_BOW.get());
+                        pOutput.accept(ModItems.FROSTBITE_RING.get());
+                        pOutput.accept(ModItems.ARCTIC_CROWN.get());
                     })
                     .build());
 
@@ -231,7 +255,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.UMBRALEXIS.get());
                         pOutput.accept(ModItems.SHADOW_SHARD.get());
                         pOutput.accept(ModItems.SHADE_SHARD.get());
-                        pOutput.accept(ModItems.MURK_SHARD.get());
+                        pOutput.accept(ModItems.NIGHTMARE_SHARD.get());
                         pOutput.accept(ModItems.DUSK_SHARD.get());
                         pOutput.accept(ModItems.TWILIGHT_SHARD.get());
                     })

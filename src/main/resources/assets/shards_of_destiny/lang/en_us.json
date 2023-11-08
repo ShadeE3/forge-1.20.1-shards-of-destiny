@@ -6,12 +6,22 @@
   "item.shards_of_destiny.scorch_shard": "Scorch Shard",
   "item.shards_of_destiny.flamestrike_shard": "Flamestrike Shard",
 
+  "item.shards_of_destiny.emberforge_blade": "Emberforge Blade",
+  "item.shards_of_destiny.inferno_amulet": "Inferno Amulet",
+  "item.shards_of_destiny.pyroclasm_gauntlet": "Pyroclasm Gauntlet",
+
+
   "item.shards_of_destiny.aquabrisite": "Aquabrisite",
   "item.shards_of_destiny.wave_shard": "Wave Shard",
   "item.shards_of_destiny.glacier_shard": "Glacier Shard",
   "item.shards_of_destiny.tsunami_shard": "Tsunami Shard",
   "item.shards_of_destiny.aquafoam_shard": "Aquafoam Shard",
   "item.shards_of_destiny.icebound_shard": "Icebound Shard",
+
+  "item.shards_of_destiny.aquatic_pearl_necklace": "Aquatic Pearl Necklace",
+  "item.shards_of_destiny.tidal_trident": "Tidal Trident",
+  "item.shards_of_destiny.frostbound_chalice": "Frostbound Chalice",
+
 
   "item.shards_of_destiny.terranite": "Terranite",
   "item.shards_of_destiny.granite_shard": "Granite Shard",
@@ -20,12 +30,22 @@
   "item.shards_of_destiny.mossstone_shard": "Mossstone Shard",
   "item.shards_of_destiny.crystaline_shard": "Crystaline Shard",
 
+  "item.shards_of_destiny.gaias_heartstone": "Gaia's Heartstone",
+  "item.shards_of_destiny.terraquake_hammer": "Terraquake Hammer",
+  "item.shards_of_destiny.crystaline_earthshaker": "Crystaline Earthshaker",
+
+
   "item.shards_of_destiny.zephyrion": "Zephyrion",
   "item.shards_of_destiny.breeze_shard": "Breeze Shard",
   "item.shards_of_destiny.typhoon_shard": "Typhoon Shard",
   "item.shards_of_destiny.gust_shard": "Gust Shard",
   "item.shards_of_destiny.tornado_shard": "Tornado Shard",
   "item.shards_of_destiny.whisper_shard": "Whisper Shard",
+
+  "item.shards_of_destiny.zephyr_wings": "Zephyr Wings",
+  "item.shards_of_destiny.cyclone_cloak": "Cyclone Cloak",
+  "item.shards_of_destiny.aerial_whisperers_staff": "Aerial Whisperer's Staff",
+
 
   "item.shards_of_destiny.vulcanium": "Vulcanium",
   "item.shards_of_destiny.molten_shard": "Molten Shard",
@@ -34,12 +54,22 @@
   "item.shards_of_destiny.lavalink_shard": "Lavalink Shard",
   "item.shards_of_destiny.emberflow_shard": "Emberflow Shard",
 
+  "item.shards_of_destiny.volcanic_eruption_axe": "Volcanic Eruption Axe",
+  "item.shards_of_destiny.molten_core_talisman": "Molten Core Talisman",
+  "item.shards_of_destiny.lavaflow_armor": "Lavaflow Armor",
+
+
   "item.shards_of_destiny.cryoquartz": "Cryoquartz",
-  "item.shards_of_destiny.frost_shard":"Frost Shard",
-  "item.shards_of_destiny.glacial_shard":"Glacial Shard",
-  "item.shards_of_destiny.permafrost_shard":"Permafrost Shard",
-  "item.shards_of_destiny.frostbite_shard":"Frostbite Shard",
-  "item.shards_of_destiny.arctic_shard":"Arctic Shard",
+  "item.shards_of_destiny.frost_shard": "Frost Shard",
+  "item.shards_of_destiny.glacial_shard": "Glacial Shard",
+  "item.shards_of_destiny.permafrost_shard": "Permafrost Shard",
+  "item.shards_of_destiny.frostbite_shard": "Frostbite Shard",
+  "item.shards_of_destiny.arctic_shard": "Arctic Shard",
+
+  "item.shards_of_destiny.glacial_shard_bow": "Glacial Shard Bow",
+  "item.shards_of_destiny.frostbite_ring": "Frostbite Ring",
+  "item.shards_of_destiny.arctic_crown": "Arctic Crown",
+
 
   "item.shards_of_destiny.thorunite": "Thorunite",
   "item.shards_of_destiny.lightning_shard": "Lightning Shard",

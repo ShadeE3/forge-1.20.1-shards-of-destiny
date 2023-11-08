@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "shards_of_destiny:item/pyroclasm_gauntlet_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "shards_of_destiny:item/pyroclasm_gauntlet_2d"
+    },
+    "ground": {
+      "parent": "shards_of_destiny:item/pyroclasm_gauntlet_2d"
+    },
+    "fixed": {
+      "parent": "shards_of_destiny:item/pyroclasm_gauntlet_2d"
+    }
+  }
+}

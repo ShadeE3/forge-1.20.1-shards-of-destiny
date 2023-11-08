@@ -12,7 +12,7 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, ShardsOfDestiny.MOD_ID);
 
     //Fire
-        public static final RegistryObject<Item> PYROCLASTITE = ITEMS.register("pyroclastite",
+    public static final RegistryObject<Item> PYROCLASTITE = ITEMS.register("pyroclastite",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> EMBER_SHARD = ITEMS.register("ember_shard",
             () -> new Item(new Item.Properties()));
@@ -24,6 +24,13 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> FLAMESTRIKE_SHARD = ITEMS.register("flamestrike_shard",
             () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> EMBERFORGE_BLADE = ITEMS.register("emberforge_blade",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> INFERNO_AMULET = ITEMS.register("inferno_amulet",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> PYROCLASM_GAUNTLET = ITEMS.register("pyroclasm_gauntlet",
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     //Water
     public static final RegistryObject<Item> AQUABRISITE = ITEMS.register("aquabrisite",
@@ -39,6 +46,13 @@ public class ModItems {
     public static final RegistryObject<Item> ICEBOUND_SHARD = ITEMS.register("icebound_shard",
             () -> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> AQUATIC_PEARL_NECKLACE = ITEMS.register("aquatic_pearl_necklace",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> TIDAL_TRIDENT = ITEMS.register("tidal_trident",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> FROSTBOUND_CHALICE = ITEMS.register("frostbound_chalice",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+
     //Earth
     public static final RegistryObject<Item> TERRANITE = ITEMS.register("terranite",
             () -> new Item(new Item.Properties()));
@@ -52,6 +66,13 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> CRYSTALINE_SHARD = ITEMS.register("crystaline_shard",
             () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> GAIAS_HEARTSTONE = ITEMS.register("gaias_heartstone",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> TERRAQUAKE_HAMMER = ITEMS.register("terraquake_hammer",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> CRYSTALINE_EARTHSHAKER = ITEMS.register("crystaline_hammer",
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     //Air
     public static final RegistryObject<Item> ZEPHYRION = ITEMS.register("zephyrion",
@@ -67,6 +88,13 @@ public class ModItems {
     public static final RegistryObject<Item> WHISPER_SHARD = ITEMS.register("whisper_shard",
             () -> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> ZEPHYR_WINGS = ITEMS.register("zephyr_wings",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> CYCLONE_CLOAK = ITEMS.register("cyclone_cloak",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> AERIAL_WHISPERERS_STAFF = ITEMS.register("aerial_whisperers_staff",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+
     //Magma
     public static final RegistryObject<Item> VULCANIUM = ITEMS.register("vulcanium",
             () -> new Item(new Item.Properties()));
@@ -81,6 +109,13 @@ public class ModItems {
     public static final RegistryObject<Item> EMBERFLOW_SHARD = ITEMS.register("emberflow_shard",
             () -> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> VOLCANIC_ERUPTION_AXE = ITEMS.register("volcanic_eruption_axe",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> MOLTEN_CORE_TALISMAN = ITEMS.register("molten_core_talisman",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> LAVAFLOW_ARMOR = ITEMS.register("lavaflow_armor",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+
     //Ice
     public static final RegistryObject<Item> CRYOQUARTZ = ITEMS.register("cryoquartz",
             () -> new Item(new Item.Properties()));
@@ -94,6 +129,13 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> ARCTIC_SHARD = ITEMS.register("arctic_shard",
             () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> GLACIAL_SHARD_BOW = ITEMS.register("glacial_shard_bow",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> FROSTBITE_RING = ITEMS.register("frostbite_ring",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> ARCTIC_CROWN = ITEMS.register("arctic_crown",
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     //Storm
     public static final RegistryObject<Item> THORUNITE = ITEMS.register("thorunite",

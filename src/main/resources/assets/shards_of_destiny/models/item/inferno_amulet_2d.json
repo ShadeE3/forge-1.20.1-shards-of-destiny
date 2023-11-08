@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "shards_of_destiny:item/inferno_amulet_2d"
+  }
+}
